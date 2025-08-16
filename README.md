@@ -1,4 +1,4 @@
-# TASCA
+# Theoretical Autonomous Satellite Collision Avoidance (TASCA)
 A lightweight, Python-based prototype for autonomous collision avoidance in low-Earth orbit using a supervised imitation approach (oracle → neural network) with 3D visualization.
 
 ### What this notebook contains
